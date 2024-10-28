@@ -8,9 +8,8 @@
 }
 
 h1 {
-    font-size: 33px;
+    font-size: 35px;
     font-style:italic;
-    text-transform: uppercase;
 }
 
 
@@ -21,4 +20,10 @@ main {
 
 a {
     text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        text-align: center; 
+    }
 }

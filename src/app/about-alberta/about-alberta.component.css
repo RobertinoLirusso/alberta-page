@@ -39,3 +39,9 @@ img:hover {
     transform: scale(1.05); 
     filter: brightness(1.2); 
 }
+
+@media (max-width: 768px) {
+    img {
+        width: 100%; 
+    }
+}
