@@ -1,0 +1,27 @@
+.w3-container {
+    margin-top: 10px;
+}
+
+
+h2 {
+    margin: 0;
+    padding: 8px;
+}
+
+.w3-card {
+    margin-bottom: 30px;
+}
+
+
+.w3-card p {
+    text-align: justify;
+}
+
+img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05); 
+    filter: brightness(1.2); 
+}

@@ -1,0 +1,9 @@
+<section class="w3-container w3-center">
+    <div class="w3-card w3-panel w3-rightbar w3-border-teal" *ngFor="let team of sports_teams">
+        <h2>{{team.name}}</h2>
+        <img src="{{team.logo_url}}" alt="logo" class="w3-image w3-card-4 w3-padding">
+        <div class="w3-panel w3-leftbar w3-border-white w3-hover-border-teal">
+            <p class="w3-large">{{team.description}}</p>
+        </div>
+    </div>
+</section>

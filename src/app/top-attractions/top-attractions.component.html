@@ -1,0 +1,11 @@
+<section class="w3-container w3-center">
+    <div class="w3-panel w3-card w3-white w3-leftbar w3-rightbar w3-border-teal" *ngFor="let attraction of top_attractions">
+        <h2 class="w3-center">{{attraction.name}}</h2>
+        <div class="w3-padding">
+            <img src="{{attraction.image_url}}" alt="photo" class="w3-image w3-round w3-card-4">
+        </div>
+        <div class="w3-panel w3-card w3-border w3-round-large w3-margin-top">
+            <p class="w3-large">{{attraction.description}}</p>
+        </div>
+    </div>
+</section>

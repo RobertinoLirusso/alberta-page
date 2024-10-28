@@ -1,0 +1,31 @@
+.w3-container {
+    margin-top: 10px;
+}
+
+
+img {
+    display: flex;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05); 
+    filter: brightness(1.2); 
+}
+
+
+.w3-card {
+    margin-bottom: 30px;
+}
+
+.w3-card p {
+    text-align: justify;
+}
+
+.w3-card h2 {
+    margin: 0;
+    padding: 8px;
+}
