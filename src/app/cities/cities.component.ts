@@ -26,7 +26,7 @@ export class CitiesComponent {
   {
       name: 'Lethbridge',
       description: "Lethbridge, situated in southern Alberta, is known for its warm climate and beautiful location near the Oldman and Bow rivers. The city places a strong emphasis on education, housing the University of Lethbridge. Additionally, Lethbridge is famous for its rich Indigenous history and proximity to Waterton Lakes National Park, which offers stunning natural landscapes and outdoor activities.",
-      image_url: 'https://www.southernalberta.com/business/datapics/1_3.jpg'
+      image_url: 'https://destinationlesstravel.com/wp-content/uploads/2021/11/Water-tower-bar-and-grill.jpeg.webp'
   },
   {
       name: 'Fort McMurray',
