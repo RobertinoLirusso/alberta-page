@@ -16,7 +16,7 @@ export class CitiesComponent {
   {
       name: 'Edmonton',
       description: "Edmonton is the capital of Alberta and is known for its extensive parkland and green spaces. The city has a rich cultural history and hosts events such as the Edmonton International Film Festival and the Heritage Festival, which celebrates the cultural diversity of the region. Edmonton is also home to West Edmonton Mall, one of the largest shopping malls in the world, featuring a theme park, water park, and numerous shops.",
-      image_url: 'https://www.onetravel.com/going-places/wp-content/uploads/2025/01/Edmonton.jpg'
+      image_url: 'https://www.worldatlas.com/upload/d5/7a/0a/shutterstock-1445647262.jpg'
   },
   {
       name: 'Red Deer',
